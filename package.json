@@ -1,0 +1,14 @@
+{
+  "name": "zell-bot",
+  "version": "1.0.0",
+  "description": "Zellits's bot",
+  "main": "bot.js",
+  "author": "Zellitsss Sama",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "winston": "^2.4.0"
+  }
+}
